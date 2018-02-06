@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'QXWFirstLog_Example' do
+  pod 'QXWFirstLog', :path => '../'
+
+  target 'QXWFirstLog_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
