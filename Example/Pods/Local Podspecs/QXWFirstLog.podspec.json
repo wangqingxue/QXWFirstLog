@@ -1,0 +1,22 @@
+{
+  "name": "QXWFirstLog",
+  "version": "0.1.0",
+  "summary": "A short description of QXWFirstLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/173636717@qq.com/QXWFirstLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "173636717@qq.com": "173636717@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/173636717@qq.com/QXWFirstLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QXWFirstLog/Classes/**/*"
+}

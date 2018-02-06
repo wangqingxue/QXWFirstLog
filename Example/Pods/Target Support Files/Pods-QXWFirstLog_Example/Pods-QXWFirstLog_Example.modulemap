@@ -1,0 +1,6 @@
+framework module Pods_QXWFirstLog_Example {
+  umbrella header "Pods-QXWFirstLog_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
